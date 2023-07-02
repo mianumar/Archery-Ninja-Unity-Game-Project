@@ -37,6 +37,7 @@ public class LevelLoader : MonoBehaviour {
 			GetComponent<Button> ().interactable = false;
 			noTxt.text = "";
 			GetComponent<Image> ().sprite = LockSprt;
+
 		}
 	}
 

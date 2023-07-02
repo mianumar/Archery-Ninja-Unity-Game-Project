@@ -30,11 +30,11 @@ public class HomeUIScript : MonoBehaviour {
 
 	public void rate()
 	{
-		Application.OpenURL("");
+		Application.OpenURL("http://faizcreations.com/");
 	}
 
 	public void moregames()
 	{
-		Application.OpenURL("");
+		Application.OpenURL("http://faizcreations.com/");
 	}
 }

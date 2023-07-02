@@ -18,6 +18,7 @@ namespace ArcherGameManager
 		CompletedState,
 		FailedState
 
+
 	}
 
 	/// <summary>

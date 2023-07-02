@@ -24,6 +24,7 @@ public class LevelLoader : MonoBehaviour {
 	public void onClick()
 	{
 		SceneManager.LoadScene (name);
+
 	}
 
 

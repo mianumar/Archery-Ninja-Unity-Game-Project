@@ -20,6 +20,7 @@ struct pixel_t {
     float4	texcoord2		: TEXCOORD3;
     float4	underlayColor	: COLOR2;
     #endif
+
 };
 
 float4 SRGBToLinear(float4 rgba) {

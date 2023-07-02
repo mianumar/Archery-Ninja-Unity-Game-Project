@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/Home.unity
+    guid: 0acbf89e6fa70dc4ea294fdacdeeaf1f
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/Level.unity
+    guid: b4570c23523b20c4f83b36de0f72cf3b
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/Shop.unity
+    guid: 5a18ad5c4edca874199f3f35826a8e27
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/1.unity
+    guid: a6617741672afbc47b49b58fa9c901f2
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/2.unity
+    guid: 327c124611dd1e746a7cb35b7c219ba1
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/3.unity
+    guid: 288fbf8377b8c714a8268215dd2c15b5
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/4.unity
+    guid: ec8e08b8aa6c3cc4ab1ccdffd5e65bb2
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/5.unity
+    guid: 17db043d2b9b3ab4e93925ec72f05639
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/6.unity
+    guid: 0ce99716710f35b4c9a526b2340557aa
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/7.unity
+    guid: 248fdc0edf5147a4fb14de8351ffb205
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/8.unity
+    guid: 93d9e534c8cd85742bf09884047a13a3
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/9.unity
+    guid: bd9e0556ab460fc4ca79ada1ce8fada7
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/10.unity
+    guid: 997ba26c670856d43afb383646935a00
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/11.unity
+    guid: 95724711084af85418edc4c7d909a3ae
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/12.unity
+    guid: c5a22de4aa9f44f4cbea967a3204c890
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/13.unity
+    guid: a652d6f95b34a3b43af55a631bc6cc7f
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/14.unity
+    guid: 592f5afa11388a04e993e07245c43638
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/15.unity
+    guid: 36b82c223048edf4b95871295ab84c5b
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/16.unity
+    guid: 8fdf40e69a4845a4f94961e6fb6f06b6
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/17.unity
+    guid: 932d27ce472c212478a0974279746851
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/18.unity
+    guid: 0c0ca92674426d54fa526287b56ab1aa
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/19.unity
+    guid: 52c7e221521f7414d9c6fa7cb84c5a15
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/20.unity
+    guid: f670a167e88731148a8dffb75eb690e6
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/21.unity
+    guid: 4759449c1ab803d49aad21501c0c77ef
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/22.unity
+    guid: 630212851adb46142a6cb6154786a57c
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/23.unity
+    guid: ce5ed25aba1d4fb4e8d6148e52674815
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/24.unity
+    guid: 7fffd5448f1a1354eae116cd50bff19d
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/25.unity
+    guid: a6dd4e72ea7531e499cf85cee700ee3e
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/26.unity
+    guid: c0d3fec4f5a3d0747be506fff1bbe7fe
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/27.unity
+    guid: 925278becd6c05b4baf854ca8c0048cd
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/28.unity
+    guid: 0ea4bfa72ea71ed4da98f7bf6bda4032
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/29.unity
+    guid: 1bbdc424b3ec50741b64a82192dd5242
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/30.unity
+    guid: 46c28a21168a6904fb7c4f8e90b9b121
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/31.unity
+    guid: ec9a1a0fff3876445a643639a769e48e
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/32.unity
+    guid: 58e99ac98bc6d244081454fb5948e5fb
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/33.unity
+    guid: f830af9805e4b684693ca25d88232d12
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/34.unity
+    guid: 5f1538e77bb590a4ba37a03695496467
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/35.unity
+    guid: d14c13572ed9b254bbe4aa3c6035b173
+  - enabled: 1
+    path: Assets/ArcheryClash/Scenes/36.unity
+    guid: 2b6509d25f0174c479af08d9d07ea098
+  m_configObjects: {}

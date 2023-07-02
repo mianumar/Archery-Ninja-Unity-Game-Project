@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc1382843467baf40a9ae5a47c6ee47c
+timeCreated: 1505909102
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Langoustine
+  fontNames:
+  - Langoustine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

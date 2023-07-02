@@ -14,6 +14,7 @@ public class NextBtnScript : MonoBehaviour
 		Button btn = GetComponent<Button> ();
 		btn.onClick.AddListener (TaskOnClick);
 
+
 	}
 
 
